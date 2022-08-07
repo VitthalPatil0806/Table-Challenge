@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+table, th, td {
+    border: 0.1em #ffffff solid;
+    background-color: aqua;
+  }
+  #myTitle{
+    color: #f16666;
+    font-family: Bradley Hand;
+  }
+  th[scope=col]{
+    color: #f16666;
+    font-family: Bradley Hand;
+  }
+  th[scope=row]{
+    color: #f16666;
+    font-family: Bradley Hand;
+  }
+  td:hover{
+    background-color: #808080;
+  }
+  caption{
+    margin-top: 280px;
+    margin-bottom: -300px;
+  }
+  
